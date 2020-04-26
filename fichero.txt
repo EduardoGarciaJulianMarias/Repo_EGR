@@ -3,5 +3,7 @@ Soy un fichero
 añado una nueva línea
 
 nueva nueva línea
+<<<<<<< HEAD
 
 modificación local al punto 30
+por le punto 30
